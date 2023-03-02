@@ -10,8 +10,8 @@ I WANT to be able to write and save notes
 SO THAT I can organize my thoughts and keep track of tasks I need to complete
 ```
 # Instructions
-```Run npm i``` to get the neccesary databases 
-then in the terminal run ```node server.js``` to open the application
+Run ```npm i``` to get the neccesary databases 
+then in the terminal Run ```node server.js``` to open the application
 
 
 # github link
